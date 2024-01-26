@@ -1,0 +1,6 @@
+/Users/rswetha/Desktop/HW1-SE
+Basics
+githubapi-get.sh
+githubapi-get_json.sh
+ls
+path.txt
