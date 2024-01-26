@@ -1,0 +1,6 @@
+# Script 1: Retrieve branch information from Basics-Workshop repository owned by CS6704-VT
+./githubapi-get_json.sh $GITHUBTOKEN /repos/CS6704-VT/Basics-Workshop/branches > branches.json
+
+
+# Script 2: Retrieve pull requests from Basics-Workshop repository owned by CS6704-VT
+./githubapi-get_json.sh $GITHUBTOKEN /repos/CS6704-VT/Basics-Workshop/pulls > pull_requests.json
